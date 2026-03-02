@@ -1,0 +1,21 @@
+{
+  "name": "Women Safety Emergency App",
+  "short_name": "WomenSafety",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffe6f0",
+  "theme_color": "#ff3385",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
