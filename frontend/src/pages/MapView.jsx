@@ -35,11 +35,11 @@ function MapView() {
 
       <h2>Live SOS Map</h2>
 
-      <MapContainer
-        center={[10.0, 76.3]}
-        zoom={13}
-        style={{ height: "400px", width: "100%" }}
-      >
+     <MapContainer
+  center={[10.0, 76.3]}
+  zoom={13}
+  style={{ height: "500px", width: "100%" }}
+>
 
         <TileLayer
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
